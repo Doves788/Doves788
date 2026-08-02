@@ -1,9 +1,26 @@
-## 🌐 Socials
+# Hi 👋, I'm Devesh Mehra
+
+I'm passionate about building scalable full-stack applications, integrating AI into real-world products, and solving challenging algorithmic problems through competitive programming.
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh-mehra-2b63b8326)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhrdevesh@gmail.com)
 
-# 💻 Tech Stack
+---
+
+## 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mehra_20/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mhrdevesh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mehra_07)
+[![Codolio](https://img.shields.io/badge/Codolio-0F172A?style=for-the-badge)](https://codolio.com/profile/mehra_20)
+
+---
+
+## 💻 Tech Stack
 
 ### Languages & Libraries
 
@@ -54,3 +71,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
